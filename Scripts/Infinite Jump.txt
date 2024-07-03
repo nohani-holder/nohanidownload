@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://noaxyhub.vanity.rf.gd/infinitejump.txt"))()
